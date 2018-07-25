@@ -1,0 +1,8 @@
+
+/* Universal selector (*) is used to set border-bottom-style of all the existing elements as well as 
+elements to be added in future to solid irrespective of their IDs */
+
+*
+{
+    border-bottom-style: solid;
+}
